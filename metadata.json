@@ -1,0 +1,6 @@
+{
+  "name": "GymTrack",
+  "description": "Mobile-first workout tracker for logging gym sets, personal records, and strength progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
